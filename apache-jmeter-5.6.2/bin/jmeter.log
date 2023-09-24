@@ -1,0 +1,142 @@
+2023-09-24 14:34:35,246 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2023-09-24 14:34:35,268 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-09-24 14:34:35,268 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: Version 5.6.2
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: java.version=20.0.2
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: os.name=Windows 11
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: os.arch=amd64
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: os.version=10.0
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-09-24 14:34:35,276 INFO o.a.j.JMeter: java.awt.headless=null
+2023-09-24 14:34:35,277 INFO o.a.j.JMeter: Max memory     =4250927104
+2023-09-24 14:34:35,277 INFO o.a.j.JMeter: Available Processors =8
+2023-09-24 14:34:35,287 INFO o.a.j.JMeter: Default Locale=English (United States)
+2023-09-24 14:34:35,288 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2023-09-24 14:34:35,288 INFO o.a.j.JMeter: JMeterHome=G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2
+2023-09-24 14:34:35,288 INFO o.a.j.JMeter: user.dir  =G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin
+2023-09-24 14:34:35,288 INFO o.a.j.JMeter: PWD       =G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin
+2023-09-24 14:34:40,233 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: Abhinav FullName: Abhinav
+2023-09-24 14:34:40,243 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-09-24 14:34:40,452 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-09-24 14:34:46,400 INFO o.a.j.s.FileServer: Default base='G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin'
+2023-09-24 14:34:46,404 INFO o.a.j.g.a.Load: Loading file: G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin\Jmeter_Script\JTest.jmx
+2023-09-24 14:34:46,404 INFO o.a.j.s.FileServer: Set new base='G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin\Jmeter_Script'
+2023-09-24 14:34:46,582 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-09-24 14:34:47,390 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-09-24 14:34:47,391 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-09-24 14:34:47,392 INFO o.a.j.s.SaveService: Loading file: G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin\Jmeter_Script\JTest.jmx
+2023-09-24 14:34:47,413 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-24 14:34:47,413 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-24 14:34:47,414 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-24 14:34:47,414 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-24 14:34:47,414 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-09-24 14:34:47,414 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-09-24 14:34:47,708 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-09-24 14:34:47,708 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-09-24 14:34:47,708 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-09-24 14:34:47,708 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-09-24 14:34:47,947 INFO o.a.j.s.FileServer: Set new base='G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin\Jmeter_Script'
+2023-09-24 14:50:28,078 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-09-24 14:50:28,079 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-09-24 14:50:28,079 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-09-24 14:50:28,080 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-09-24 14:50:28,080 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-09-24 14:50:28,111 INFO o.a.j.r.ResultCollector: Folder at G:\VisionAbhinav\Jtest\apache-jmeter-5.6.2\bin\Jmeter_Script\OutputCSV was created
+2023-09-24 14:50:28,116 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-09-24 14:50:28,148 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 1
+2023-09-24 14:50:28,148 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group 1.
+2023-09-24 14:50:28,148 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-09-24 14:50:28,148 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=5 delayedStart=false
+2023-09-24 14:50:28,150 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-09-24 14:50:28,150 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-09-24 14:50:28,153 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1 1-1
+2023-09-24 14:50:28,156 INFO o.a.j.s.FileServer: Stored: Jmeter_Script/TestData/Base_url.csv
+2023-09-24 14:50:28,163 INFO o.a.j.s.FileServer: Stored: Jmeter_Script/TestData/test_data_pages.csv
+2023-09-24 14:50:30,660 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1 1-2
+2023-09-24 14:50:31,196 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = Abhinav
+2023-09-24 14:50:31,204 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-09-24 14:50:54,154 INFO o.a.j.g.a.Start: Stopping test
+2023-09-24 14:50:54,163 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1 1-2
+2023-09-24 14:50:54,163 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1 1-1
+2023-09-24 14:50:54,173 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2023-09-24 14:50:54,173 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2023-09-24 14:50:54,182 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1 1-1
+2023-09-24 14:50:54,185 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1 1-2
+2023-09-24 14:50:54,186 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-09-24 14:50:54,186 INFO o.a.j.s.FileServer: Close: Jmeter_Script/TestData/test_data_pages.csv
+2023-09-24 14:50:54,186 INFO o.a.j.s.FileServer: Close: Jmeter_Script/TestData/Base_url.csv
+2023-09-24 14:50:54,187 INFO o.a.j.p.h.s.ResourcesDownloader: Creating ResourcesDownloader with keepalive_inseconds : 60
+2023-09-24 14:50:54,189 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-09-24 14:51:06,725 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-09-24 14:51:06,726 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-09-24 14:51:06,729 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-09-24 14:51:06,772 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 1
+2023-09-24 14:51:06,772 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group 1.
+2023-09-24 14:51:06,773 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-09-24 14:51:06,773 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=5 delayedStart=false
+2023-09-24 14:51:06,774 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-09-24 14:51:06,774 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-09-24 14:51:06,774 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1 1-1
+2023-09-24 14:51:06,775 INFO o.a.j.s.FileServer: Stored: Jmeter_Script/TestData/Base_url.csv
+2023-09-24 14:51:06,777 INFO o.a.j.s.FileServer: Stored: Jmeter_Script/TestData/test_data_pages.csv
+2023-09-24 14:51:09,276 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1 1-2
+2023-09-24 14:54:36,117 INFO o.a.j.g.a.Start: Stopping test
+2023-09-24 14:54:37,954 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1 1-2
+2023-09-24 14:54:41,298 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1 1-2
+2023-09-24 14:54:41,298 INFO o.a.j.t.JMeterThread: Stopping: Thread Group 1 1-1
+2023-09-24 14:54:43,360 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1 1-1
+2023-09-24 14:54:41,298 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[#72,Thread Group 1 1-2,6,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.apache.jmeter.samplers.SampleResult.getSubResults(SampleResult.java:725) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.save.CSVSaveService.saveSubResults(CSVSaveService.java:1156) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.save.CSVSaveService.saveSampleResult(CSVSaveService.java:1146) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:554) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:58) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:1042) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.doEndTransactionSampler(JMeterThread.java:678) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:535) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) ~[ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.runWith(Thread.java:1636) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+2023-09-24 14:54:43,361 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[#71,Thread Group 1 1-1,6,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.apache.jmeter.samplers.SampleResult.getSubResults(SampleResult.java:725) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.save.CSVSaveService.saveSubResults(CSVSaveService.java:1156) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.save.CSVSaveService.saveSampleResult(CSVSaveService.java:1146) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:554) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:58) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:1042) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.doEndTransactionSampler(JMeterThread.java:678) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:535) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:268) ~[ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.runWith(Thread.java:1636) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+2023-09-24 14:54:47,311 ERROR o.a.j.JMeter: Uncaught exception in thread Thread[#36,AWT-EventQueue-0,6,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.apache.jmeter.samplers.SampleResult.getSubResults(SampleResult.java:725) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.addSubResults(ViewResultsFullVisualizer.java:283) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.updateGui(ViewResultsFullVisualizer.java:195) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.lambda$new$0(ViewResultsFullVisualizer.java:157) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer$$Lambda$521/0x000001dea6a9e528.actionPerformed(Unknown Source) ~[?:?]
+	at javax.swing.Timer.fireActionPerformed(Timer.java:311) ~[?:?]
+	at javax.swing.Timer$DoPostEvent.run(Timer.java:243) ~[?:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.executePrivileged(AccessController.java:778) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) [?:?]
+2023-09-24 14:54:47,331 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-09-24 14:54:47,331 INFO o.a.j.s.FileServer: Close: Jmeter_Script/TestData/test_data_pages.csv
+2023-09-24 14:54:47,332 INFO o.a.j.s.FileServer: Close: Jmeter_Script/TestData/Base_url.csv
+2023-09-24 14:54:47,332 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
